@@ -1,5 +1,5 @@
 
-public class Normalizacao {
+public class NormalizacaoMatriz {
     public static void main(String[] args) {
         int[][] matrizX = {
                 { 46, 227, 180, 24, 115, 186 },
